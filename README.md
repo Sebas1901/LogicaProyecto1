@@ -12,7 +12,7 @@ Características principales:
 •	Acceso Seguro:qqq
 Protege tus notas con un inicio de sesión seguro, el cual te garantiza la total privacidad de tus ideas
 
-•	Gestión Intuitiva de Notas
+•	Gestión Intuitiva de Notas11
 Puedes crear, editar y eliminar tus diferentes notas de forma intuitiva de manera intuitiva y eficiente
 
 
