@@ -9,7 +9,7 @@ esta es la herramienta perfecta para organizar tus ideas en cualquier momento y 
 Características principales:
 
 
-•	Acceso Seguro:
+•	Acceso Seguro:qqq
 Protege tus notas con un inicio de sesión seguro, el cual te garantiza la total privacidad de tus ideas
 
 •	Gestión Intuitiva de Notas
